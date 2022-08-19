@@ -54,7 +54,7 @@ app.get('/:username',async (req,resp)=>{
         }
         
         catch(e){
-            console.log(e)
+            resp.status(404).json({"status":"error","message":"Username Not Found"})
         }
 })
 
