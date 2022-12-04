@@ -1,3 +1,3 @@
 ### REST API Endpoint
 
-Endpoint: `https://leetcodestats.herokuapp.com/<YOUR_USERNAME>`
+Endpoint: `https://leetcodestats.cyclic.app/<YOUR_USERNAME>`
